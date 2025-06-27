@@ -1,6 +1,6 @@
 # main.py
 import streamlit as st
-from Rankingbot import rank_responses
+from rankingbot import rank_responses
 
 st.set_page_config(page_title="Ranking Chatbot", layout="wide")
 
